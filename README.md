@@ -1,4 +1,4 @@
-# Learning Better ^-^
+# Better-Learning ^-^
 
 Hello guys!
 This Repository for Arabic Students and teachers who are interested in the development of education specially the Arabic contents ^-^.

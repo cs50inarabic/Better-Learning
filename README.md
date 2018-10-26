@@ -1,12 +1,10 @@
 # Education Development ^-^
 
 Hello guys!
-This Repository for Students and teachers who are interested in the development of education.
+This Repository for Arabic Students and teachers who are interested in the development of education specially the Arabic contents ^-^.
 we will disscus the best  topics  which can help to make a good understanding and a big motivation for learning.
 
-Don't forget 
-
-
+Don't forget to share because ?
 " We can change the word ,by giving the people hope"
 
 

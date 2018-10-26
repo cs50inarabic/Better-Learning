@@ -17,8 +17,8 @@ here we can apply  to take courses from best univerisities in the world throw co
 
 
 2. Learn how to Learn Mooc .
- [The Course](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
- [PDF file](https://github.com/cs50xinarabic/Better-Learning/blob/master/learn%20how%20to%20learn-converted.pdf)
+ * [The Course](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
+ * [PDF file](https://github.com/cs50xinarabic/Better-Learning/blob/master/learn%20how%20to%20learn-converted.pdf)
 
 
 

@@ -16,6 +16,10 @@ here we can apply  to take courses from best univerisities in the world throw co
 * [Enroll on Coursera](https://github.com/cs50inarabic/moocs/blob/master/How%20to%20apply%20on%20Coursera.pdf)
 
 
+1. Learn how to Learn Mooc .
+ [The Course](https://github.com/cs50inarabic/moocs/blob/master/Coursera%20Financial%20Aid-converted.pdf)
+ [PDF file](https://github.com/cs50inarabic/moocs/blob/master/Coursera%20Financial%20Aid-converted.pdf)
+
 
 
 

@@ -1,4 +1,4 @@
-# Moocs ^-^
+# Education Development ^-^
 
 Hello guys!
 This Repository for Students and teachers who are interested in the development of education.

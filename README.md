@@ -10,12 +10,12 @@ Don't forget
 " We can change the word ,by giving the people hope"
 
 
-* We will start by 
+#### We will start by 
 1. **Moocs** 
 
 here we can apply for to take courses from big univerisities in the world throw coursera
-[Apply for fincial aid](https://github.com/cs50inarabic/moocs/blob/master/Coursera%20Financial%20Aid-converted.pdf)
-[Enroll on Coursera](https://github.com/cs50inarabic/moocs/blob/master/How%20to%20apply%20on%20Coursera.pdf)
+* [Apply for fincial aid](https://github.com/cs50inarabic/moocs/blob/master/Coursera%20Financial%20Aid-converted.pdf)
+* [Enroll on Coursera](https://github.com/cs50inarabic/moocs/blob/master/How%20to%20apply%20on%20Coursera.pdf)
 
 
 
